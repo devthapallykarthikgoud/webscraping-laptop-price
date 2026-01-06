@@ -49,14 +49,11 @@ A data engineering project that scrapes laptop listings, cleans raw price/text d
 
 1. Clone the repository:
    ```bash
-   git clone <your-github-repo-link>
-Install dependencies:
-
-bash
-Copy code
-pip install pandas regex
-Open the notebook and run:
-
-bash
-Copy code
-jupyter notebook
+   git clone https://github.com/devthapallykarthikgoud/webscraping-laptop-price.git
+2. Install dependencies:
+  ```bash
+    pip install pandas regex
+   ```
+3. Open the notebook and run:
+  ```bash
+   jupyter notebook
